@@ -72,7 +72,7 @@ This project is a Library Management System developed using Laravel 10, PHP 8.2,
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Karvendhannagaraj/library_management>
+   git clone <https://github.com/Karvendhannagaraj/laravel-standard-rest-api>
    cd library_management
    ```
 
