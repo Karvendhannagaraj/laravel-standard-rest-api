@@ -1,4 +1,4 @@
-# Library Management System
+# laravel Standard Rest Api 
 
 This project is a Library Management System developed using Laravel 10, PHP 8.2, and MySQL 8.35. The application provides features for users to borrow and return books, and for administrators to manage books and users effectively. Laravel Sanctum is used for authentication.
 
